@@ -51,3 +51,6 @@ Code Structure:
 The source code is organized into functions for initializing the hardware, monitoring parking slots, controlling the gate, and updating the LCD. The logic can be customized to accommodate different parking lot sizes or additional features.
 
 This system serves as a prototype to demonstrate the capabilities of Arduino in managing a parking system and provides a platform for students to explore sensor integration, real-time monitoring, and automated control systems.
+
+
+Note: for a better experience I suggest the use of Ultra Sonic sensors instead of IRs.
